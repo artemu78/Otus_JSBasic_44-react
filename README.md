@@ -10,6 +10,12 @@
 
 В директории проекта вы можете запустить:
 
+### `npm run storybook`
+
+Запускает storybook в режиме разработки.\
+Откройте [http://localhost:6006](http://localhost:6006) что бы увидеть результат в браузере.
+Больше информации о storybook [storybook](https://storybook.js.org/).
+
 ### `npm start`
 
 Запускает приложение в режиме разработки.\
@@ -22,6 +28,7 @@
 
 Запускает тесты в интерактивном режиме.\
 Смотрите документацию по тестированию [running tests](https://facebook.github.io/create-react-app/docs/running-tests)
+После запуска нажмите `a` что бы запустить все тесты.
 
 ### `npm run build`
 
@@ -39,10 +46,6 @@
 Подробнее о [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 Вот здесь чуть подробнее о реакте [React documentation](https://reactjs.org/).
-
-## Запустите storybook для просмотра компонентов
-
-### `npm run storybook`
 
 ### Code Splitting
 
